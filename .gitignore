@@ -1,0 +1,14 @@
+# PRIVACY: family photos are drawing reference only and must never be committed.
+*.jpg
+*.jpeg
+*.png
+*.heic
+*.HEIC
+*.gif
+*.webp
+*.JPG
+*.JPEG
+*.PNG
+# local tooling
+node_modules/
+.DS_Store
